@@ -137,7 +137,7 @@
           }
         ],
         "postCommit": {
-          "script": "./vendor/bin/phpunit"
+
         }
       }
     },
@@ -493,7 +493,7 @@
       "displayName": "Git Repository URL",
       "description": "The URL of the repository with your application source code.",
       "required": true,
-      "value": "https://github.com/sclorg/cakephp-ex.git"
+      "value": "https://github.com/jurg3nmeister/cake3php7.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
